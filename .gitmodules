@@ -8,7 +8,7 @@
 	branch = main
 [submodule "Tools/jMAVSim"]
 	path = Tools/jMAVSim
-	url = https://github.com/PX4/jMAVSim.git
+	url = https://github.com/ResConTech/jMAVSim.git
 	branch = master
 [submodule "Tools/sitl_gazebo"]
 	path = Tools/sitl_gazebo
